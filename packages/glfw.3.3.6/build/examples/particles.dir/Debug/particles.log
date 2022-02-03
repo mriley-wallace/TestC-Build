@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/mriley-wallace/Downloads/Project_Template/Project_Template/packages/glfw-3.3.6/examples/CMakeLists.txt
+  particles.c
+  tinycthread.c
+  getopt.c
+  glad_gl.c
+  Generating Code...
+  particles.vcxproj -> C:\Users\mriley-wallace\Downloads\Project_Template\Project_Template\packages\glfw.3.3.6\build\examples\Debug\particles.exe
